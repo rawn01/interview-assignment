@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/interview-assignment/static/css/main.5b7a8c07.chunk.css",
+    "main.js": "/interview-assignment/static/js/main.d123bad1.chunk.js",
+    "main.js.map": "/interview-assignment/static/js/main.d123bad1.chunk.js.map",
+    "runtime-main.js": "/interview-assignment/static/js/runtime-main.5de1bb77.js",
+    "runtime-main.js.map": "/interview-assignment/static/js/runtime-main.5de1bb77.js.map",
+    "static/js/2.f2ddf3f5.chunk.js": "/interview-assignment/static/js/2.f2ddf3f5.chunk.js",
+    "static/js/2.f2ddf3f5.chunk.js.map": "/interview-assignment/static/js/2.f2ddf3f5.chunk.js.map",
+    "index.html": "/interview-assignment/index.html",
+    "static/css/main.5b7a8c07.chunk.css.map": "/interview-assignment/static/css/main.5b7a8c07.chunk.css.map",
+    "static/js/2.f2ddf3f5.chunk.js.LICENSE.txt": "/interview-assignment/static/js/2.f2ddf3f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5de1bb77.js",
+    "static/js/2.f2ddf3f5.chunk.js",
+    "static/css/main.5b7a8c07.chunk.css",
+    "static/js/main.d123bad1.chunk.js"
+  ]
+}
